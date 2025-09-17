@@ -8,7 +8,7 @@
 - [ ] Margherita
 - [ ] Pepperoni
 - [ ] Veggie
-- [ ] BBQ Chicken
+- [ ] BBQ Chicken spicy
 - [ ] Other (please describe):
 
 ### How Has This Been Cooked?
